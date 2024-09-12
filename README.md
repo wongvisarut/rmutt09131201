@@ -40,8 +40,8 @@ Tools for numerical problem solving, error analysis, solutions of nonlinear equa
 | [Systems of Linear Equations](./materials/lecture_03.pdf) | ระบบสมการเชิงเส้น | [Handout](./materials/handout_03.pdf) <br> [Workshop 04](./materials/workshop_04.ipynb) <br> [Workshop 05](./materials/workshop_05.ipynb) <br> [Workshop 06](./materials/workshop_06.ipynb) <br> [Workshop 07](./materials/workshop_07.ipynb)|
 | [Regression](./materials/lecture_04.pdf) | สมการถดถอย | [Handout](./materials/handout_04.pdf) <br> [Workshop 08](./materials/workshop_08.zip) <br> [Workshop 09](./materials/workshop_09.zip) |
 | [Interpolation](./materials/lecture_05.pdf) | การประมาณค่าในช่วง | [Handout](./materials/handout_05.pdf) <br> [Workshop 10](./materials/workshop_10.ipynb) <br> [Workshop 11](./materials/workshop_11.zip) |
-| [Numerical Differentiation](./materials/lecture_06.pdf) | อนุพันธ์เชิงตัวเลข | [Handout](./materials/handout_06.pdf) <br> [Workshop 12](./materials/workshop_12.ipynb) |
-| [Numerical Integration](./materials/lecture_07.pdf) | ปริพันธ์เชิงตัวเลข | [Handout](./materials/handout_07.pdf) <br> [Workshop 13](./materials/workshop_13.ipynb) |
+| [Numerical Differentiation and  Integration](./materials/lecture_06.pdf) | อนุพันธ์และปริพันธ์เชิงตัวเลข | [Handout](./materials/handout_06.pdf) <br> [Workshop 12](./materials/workshop_12.ipynb) |
+| [Numerical Solution of Ordinary Differential Equation](./materials/lecture_07.pdf) | การหาผลเฉลยเชิงตัวเลขของสมการเชิงอนุพันธ์สามัญ | [Handout](./materials/handout_07.pdf) <br> [Workshop 13](./materials/workshop_13.ipynb) |
 
 
 ## Grades
