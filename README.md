@@ -3,7 +3,7 @@ Offical Repository of RMUTT 09131201 Numerical Methods for Computers
 
 Lecturer: Wongwisarut Kuangsatung, Ph.D., Asst. Prof. Dr.
 
-![Banner](./materials/banner.jpg)
+![Banner](./materials/banner.png)
 
 
 ## Schedules
