@@ -1,35 +1,35 @@
 # Numerical Methods for Computers
 Offical Repository of RMUTT 09131201 Numerical Methods for Computers
 
-Lecturer: Wongwisarut Kuangsatung, Ph.D., Asst. Prof. Dr.
+Lecturer: Wongwisarut Kuangsatung, Ph.D., Assoc. Prof. Dr.
 
 ![Banner](./materials/banner.png)
 
 
 ## Schedules
 
-SEMESTER 1/2567
+SEMESTER 1/2568
 
 | Section | Date    | Lecture  | Workshop | MS-Team Code | [D-Learn](https://dlearn.rmutt.ac.th/course/view.php?id=2318) Key |
 |---------|---------|----------|----------|--------|---------|
-|  SEC01  | TUE     |ST1905 เวลา 08.00 - 10.00 | ST1905 เวลา 10.00 - 12.00 | `45dqnlw` | `QAAT-BnDA-P1K8`  |
-|  SEC02  | TUE     |ST1905 เวลา 13.00 - 15.00 | ST1905 เวลา 15.00 - 17.00 | `fre2goj` | `NHFD-UsPS-K2L4`  |
-|  SEC03  | WED     | ST1905 เวลา 13.00 - 15.00 | ST1905 เวลา 15.00 - 17.00 | `p7f9786` | `NHYS-BbSD-J3A3`  |
+|  SEC01  | THU     |ST1905 เวลา 13.00 - 15.00 | ST1905 เวลา 15.00 - 17.00 | `2vk9i4v` | `sop-ETY-CS1`  |
+|  SEC02  | THU     |ST1905 เวลา 08.00 - 10.00 | ST1905 เวลา 10.00 - 12.00  | `3skdopw` | `pvf-NTD-CS2`  |
+|  SEC03  | TUE     |ST1905 เวลา 13.00 - 15.00 | ST1905 เวลา 15.00 - 17.00 | `h2t52ic` | `eru-TVD-CS3`  |
 
 
 ## Examinations
 
 | Section | MIDTERM | FINAL  | Location|
 |---------|---------|-------|---------|
-| SEC 01-03 | 27 สิงหาคม 2566 เวลา 09.00 - 12.00  | 22 ตุลาคม 2566 เวลา 09.00 - 12.00  | TBA |
+| SEC 01-03 | 2 กันยายน 2568 เวลา 09.00 - 12.00  | 28 ตุลาคม 2568 เวลา 09.00 - 12.00  | ST5-703/ST5-704 |
 
 
 
 ## Course Description
 
-เครื่องมือสำหรับแก้ปัญหาเชิงตัวเลข การวิเคราะห์ความคลาดเคลื่อน ผลเฉลยของสมการแบบไม่เชิงเส้น ผลเฉลยของระบบสมการเชิงเส้น การประมาณค่าในช่วง การประมาณค่ากำลังสองน้อยที่สุด อนุพันธ์และปริพันธ์เชิงตัวเลข ผลเฉลยเชิงตัวเลขของสมการเชิงอนุพันธ์ การแก้ปัญหาเชิงตัวเลขด้วยคอมพิวเตอร์ และการประยุกต์ใช้เครื่องมือสำหรับแก้ปัญหาเชิงตัวเลข
+การวิเคราะห์ความคลาดเคลื่อน การหาผลเฉลยของสมการไม่เชิงเส้นโดยวิธีแบ่งครึ่งช่วง วิธีวางผิดที่ วิธีทำซ้ำ วิธีนิวตัน วิธีซีแคนต์ และอื่น ๆ ผลเฉลยของระบบสมการเชิงเส้น การประมาณค่าในช่วง การประมาณค่าแบบกำลังสองน้อยสุด การหาอนุพันธ์เชิงตัวเลข การหาปริพันธ์เชิงตัวเลข การพัฒนาแอพพลิเคชั่นในการแก้ปัญหาด้วยระเบียบวิธีเชิงตัวเลขเบื้องต้น และปฏิบัติการที่เกี่ยวข้อง
 
-Tools for numerical problem solving, error analysis, solutions of nonlinear equations, solution of systems of linear equations, interpolation, least square approximation, numerical diffentiation and integration, numerical solution of differential equations, numerical problem solving by computer, applying in tools for numerical problem solving
+Error analysis, solutions of nonlinear equations with bisection method, regular false method, iterative method, Newton method, secant method, solutions of linear equations, interpolations, least square approximations, numerical differentiations, numerical integrations, elementary application development for solving problems with numerical methods and related laboratory
 
 ## Class Materials
 
@@ -41,7 +41,6 @@ Tools for numerical problem solving, error analysis, solutions of nonlinear equa
 | [Regression](./materials/lecture_04.pdf) | สมการถดถอย | [Handout](./materials/handout_04.pdf) <br> [Workshop 08](./materials/workshop_08.zip) <br> [Workshop 09](./materials/workshop_09.zip) |
 | [Interpolation](./materials/lecture_05.pdf) | การประมาณค่าในช่วง | [Handout](./materials/handout_05.pdf) <br> [Workshop 10](./materials/workshop_10.ipynb) <br> [Workshop 11](./materials/workshop_11.zip) |
 | [Numerical Differentiation and  Integration](./materials/lecture_06.pdf) | อนุพันธ์และปริพันธ์เชิงตัวเลข | [Handout](./materials/handout_06.pdf) <br> [Workshop 12](./materials/workshop_12.ipynb) |
-| [Numerical Solution of Ordinary Differential Equation](./materials/lecture_07.pdf) | การหาผลเฉลยเชิงตัวเลขของสมการเชิงอนุพันธ์สามัญ | [Handout](./materials/handout_07.pdf) <br> [Workshop 13](./materials/workshop_13.ipynb) |
 
 
 ## Grades
