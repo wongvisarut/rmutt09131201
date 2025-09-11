@@ -1,5 +1,5 @@
 # Numerical Methods for Computers
-Offical Repository of RMUTT 09131201 Numerical Methods for Computers
+Offical Repository of RMUTT 09114222 Introduction to Numerical Methods
 
 Lecturer: Wongwisarut Kuangsatung, Ph.D., Assoc. Prof. Dr.
 
