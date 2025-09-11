@@ -35,12 +35,12 @@ Error analysis, solutions of nonlinear equations with bisection method, regular 
 
 |    Topic   |   Description   |    Material/Workshop   |
 |------------|-----------------|---------------|
-| [Erorrs and Approximation](./materials/lecture_01.pdf) | ค่าคลาดเคลื่อนและค่าประมาณ | [Handout](./materials/handout_01.pdf) <br> [Workshop 01](./materials/workshop_01.ipynb) |
-| [Root Finding](./materials/lecture_02.pdf) | รากของสมการ | [Handout](./materials/handout_02.pdf) <br> [Workshop 02](./materials/workshop_02.ipynb) <br>  [Workshop 03](./materials/workshop_03.ipynb)|
-| [Systems of Linear Equations](./materials/lecture_03.pdf) | ระบบสมการเชิงเส้น | [Handout](./materials/handout_03.pdf) <br> [Workshop 04](./materials/workshop_04.ipynb) <br> [Workshop 05](./materials/workshop_05.ipynb) <br> [Workshop 06](./materials/workshop_06.ipynb) <br> [Workshop 07](./materials/workshop_07.ipynb)|
-| [Regression](./materials/lecture_04.pdf) | สมการถดถอย | [Handout](./materials/handout_04.pdf) <br> [Workshop 08](./materials/workshop_08.zip) <br> [Workshop 09](./materials/workshop_09.zip) |
-| [Interpolation](./materials/lecture_05.pdf) | การประมาณค่าในช่วง | [Handout](./materials/handout_05.pdf) <br> [Workshop 10](./materials/workshop_10.ipynb) <br> [Workshop 11](./materials/workshop_11.zip) |
-| [Numerical Differentiation and  Integration](./materials/lecture_06.pdf) | อนุพันธ์และปริพันธ์เชิงตัวเลข | [Handout](./materials/handout_06.pdf) <br> [Workshop 12](./materials/workshop_12.ipynb) |
+| [Erorrs and Approximation](./materials/CH1.pdf) | ค่าคลาดเคลื่อนและค่าประมาณ | [Handout](./materials/CH1.pdf) <br> [Workshop 01](./materials/workshop_01.ipynb) |
+| [Root Finding](./materials/CH2.pdf) | รากของสมการ | [Handout](./materials/CH2.pdf) <br> [Workshop 02](./materials/workshop_02.ipynb) <br>  [Workshop 03](./materials/workshop_03.ipynb)|
+| [Systems of Linear Equations](./materials/CH3.pdf) | ระบบสมการเชิงเส้น | [Handout](./materials/CH3.pdf) <br> [Workshop 04](./materials/workshop_04.ipynb) <br> [Workshop 05](./materials/workshop_05.ipynb) <br> [Workshop 06](./materials/workshop_06.ipynb) <br> [Workshop 07](./materials/workshop_07.ipynb)|
+| [Regression](./materials/CH4.pdf) | สมการถดถอย | [Handout](./materials/CH4.pdf) <br> [Workshop 08](./materials/workshop_08.zip) <br> [Workshop 09](./materials/workshop_09.zip) |
+| [Interpolation](./materials/CH5.pdf) | การประมาณค่าในช่วง | [Handout](./materials/CH5.pdf) <br> [Workshop 10](./materials/workshop_10.ipynb) <br> [Workshop 11](./materials/workshop_11.zip) |
+| [Numerical Differentiation and  Integration](./materials/CH6.pdf) | อนุพันธ์และปริพันธ์เชิงตัวเลข | [Handout](./materials/CH6.pdf) <br> [Workshop 12](./materials/workshop_12.ipynb) |
 
 
 ## Grades
